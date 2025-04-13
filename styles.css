@@ -22,9 +22,9 @@ body {
   color: white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: left;
-  line-height: 100px;
+  line-height: 250%;
   margin-bottom: 1em;
-  margin-top: 1em
+  margin-top: 1em;
   text-size-adjust: 20px;
 }
 
