@@ -15,6 +15,19 @@ body {
   color: #333;
 }
 
+.deprecated {
+  background: #9c0000a9;
+  height: 100px;
+  width: 80%;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: left;
+  line-height: 100px;
+  margin-bottom: 1em;
+  margin-top: 1em
+  text-size-adjust: 20px;
+}
+
 /* Header styles */
 header {
   background-color: #b9b9b9;
