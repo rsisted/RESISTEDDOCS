@@ -18,14 +18,15 @@ body {
 .deprecated {
   background: #9c0000a9;
   height: 80px;
-  width: 90%;
+  line-height: 500%;
+  width: 95%;
   color: white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: left;
-  line-height: 250%;
-  margin: 1em auto;
-  text-size-adjust: 20px;
+  margin: left auto; /* Changed this line to center the box */
+  text-size-adjust: 20px; /* This property is not valid here; see below */
 }
+
 
 
 /* Header styles */
