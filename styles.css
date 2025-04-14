@@ -17,24 +17,22 @@ body {
 
 .RedAlert {
   background: #9c0000a9;
-  height: 80px;
   width: 100%;
   color: white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: left;
-  font-size: 1em;
+  font-size: 0.5em;
 }
 
 .YellowAlert {
   background: #a05b00a9;
-  height: 80px;
   width: 100%;
   color: white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: left;
-  font-size: 1em;
+  font-size: 0.5em;
 }
 
 
