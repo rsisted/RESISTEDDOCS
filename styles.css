@@ -21,11 +21,11 @@ body {
   line-height: 500%;
   width: 95%;
   color: white;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+               'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: left;
-  margin: left auto; /* Changed this line to center the box */
-  text-size-adjust: 20px; /* This property is not valid here; see below */
-  font-size: 2vw;
+  margin: 1em auto;
+  font-size: clamp(14px, 2vw, 24px);
 }
 
 .YellowAlert {
@@ -34,11 +34,11 @@ body {
   line-height: 500%;
   width: 95%;
   color: white;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+               'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: left;
-  margin: left auto; /* Changed this line to center the box */
-  text-size-adjust: 20px; /* This property is not valid here; see below */
-  font-size: 2vw;
+  margin: 1em auto;
+  font-size: clamp(14px, 2vw, 24px);
 }
 
 
