@@ -23,7 +23,7 @@ body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: left;
-  font-size: 2vw;
+  font-size: 1em;
 }
 
 .YellowAlert {
@@ -34,7 +34,7 @@ body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: left;
-  font-size: 2vw;
+  font-size: 1em;
 }
 
 
