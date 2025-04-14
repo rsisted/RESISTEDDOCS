@@ -35,6 +35,16 @@ body {
   font-size: 0.5em;
 }
 
+.GreenAlert {
+  background: #00a008a9;
+  width: 100%;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+               'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: left;
+  font-size: 0.5em;
+}
+
 
 
 /* Header styles */
