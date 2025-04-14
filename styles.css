@@ -18,7 +18,6 @@ body {
 .RedAlert {
   background: #9c0000a9;
   height: 80px;
-  line-height: 500%;
   width: 100%;
   color: white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
@@ -31,7 +30,6 @@ body {
 .YellowAlert {
   background: #a05b00a9;
   height: 80px;
-  line-height: 500%;
   width: 100%;
   color: white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
